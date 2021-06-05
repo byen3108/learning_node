@@ -29,3 +29,9 @@ using -g installs the dependency as a global dependency
 #   N:B 
     read on templating engines 
     read on how to handle static files in nodejs
+    # read on error code
+
+## system requirement specifications (SRS)
+    1.adding employees
+    2. deleting an employee
+    3. deleting all records
